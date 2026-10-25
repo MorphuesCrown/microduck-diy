@@ -1,0 +1,7 @@
+# 别人的完整克隆，保留在本机，不进这个仓库
+upstream/
+
+# 超过 GitHub 100 MB 单文件限制，放在 Release
+assets/cad/SolidWorks-FT2026-10-20.zip
+assets/cad/SolidWorks-XL330-v1.1.zip
+assets/image/*.img.xz
